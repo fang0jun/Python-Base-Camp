@@ -1,15 +1,15 @@
 # Python-Base-Camp
 
-Leetcode by python
+- Leetcode by python
 
-python基础学习
+- python基础学习
 
-面向对象专门学习
+- 面向对象专门学习
 
-设计模型
+- 设计模型
 
-数据结构
+- 数据结构
 
-算法图解练习
+- 算法图解练习
 
-项目
+- 项目
